@@ -1,0 +1,1 @@
+# This is a digital clock, developed with HTML, CSS and JavaScript.
